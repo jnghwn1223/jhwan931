@@ -1,0 +1,10 @@
+git init 폴더에 깃폴더(hidden) 추가
+cd ~들어가기
+cd .. 상위 폴더 가기
+cd ../ 상대경로
+pwd 경로보기
+ls 안에 항목보기
+
+git add 'file.html' 원하는 파일 선택하기
+git commit -m 'project is good' 커밋 만들기
+git log 생성한 커밋 보기
